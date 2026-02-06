@@ -16,13 +16,13 @@
   <tr>
     <td style="border: 2px solid black; height: 50px;">&nbsp;</td>
     <td style="border: 2px solid black;">&nbsp;</td>
-    <td style="border: 2px solid black;" bgcolor="red">&nbsp;</td>
-    <td style="border: 2px solid black;" bgcolor="red">&nbsp;</td>
+    <td style="border: 2px solid black;background-color: red;">&nbsp;</td>
+    <td style="border: 2px solid black;background-color: red;">&nbsp;</td>
     <td style="border: 2px solid black;font-size: 20px;color: lightyellow;" align="center">G</td>
   </tr>
   <tr>
     <td style="border: 2px solid black; height: 50px; font-size: 20px; font-weight: bold;color: lightgreen;" align="center">e</td>
-    <td style="border: 2px solid black;" bgcolor="red">&nbsp;</td>
+    <td style="border: 2px solid black;background-color: red;">&nbsp;</td>
     <td style="border: 2px solid black;font-size: 20px;color: gray;" align="center">C</td>
     <td style="border: 2px solid black;font-size: 20px;color: lightyellow;" align="center">A</td>
     <td style="border: 2px solid black;font-size: 20px;color: lightyellow;" align="center">D</td>
@@ -30,9 +30,9 @@
   <tr>
     <td style="border: 2px solid black; height: 50px;font-size: 20px;color: lightgreen;" align="center">N</td>
     <td style="border: 2px solid black;font-size: 20px;color: lightgreen;" align="center">J</td>
-    <td style="border: 2px solid black;" bgcolor="red">&nbsp;</td>
+    <td style="border: 2px solid black;background-color: red;">&nbsp;</td>
     <td style="border: 2px solid black; font-size: 20px; font-weight: bold;" align="center">i</td>
-    <td style="border: 2px solid black;" bgcolor="red">&nbsp;</td>
+    <td style="border: 2px solid black; background-color: red;">&nbsp;</td>
   </tr>
   <tr>
     <td style="border: 2px solid black; height: 50px;font-size: 20px;color: gray;" align="center">K</td>
